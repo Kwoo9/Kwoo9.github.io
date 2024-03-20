@@ -1,7 +1,9 @@
 ---
 title: Github 블로그 테스트용 첫 포스트
 description: 테스트 용 첫 포스트 입니다!
-author: Kwoo9
+author: 
+  name: Kwoo9
+  link: https://github.com/Kwoo9
 date: 2024-03-21
 categories: Blog
 tags: [Blog, Github]
