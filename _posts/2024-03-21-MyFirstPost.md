@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Github 블로그 테스트용 첫 포스트
 description: 테스트 용 첫 포스트 입니다!
 author: Kwoo9
