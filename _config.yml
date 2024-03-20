@@ -1,5 +1,8 @@
 # The Site Configuration
 
+include:
+  - _javascript
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -181,8 +184,8 @@ defaults:
     values:
       layout: page
       permalink: /:title/
-#  - scope:
-#      path: assets/js/dist
+  - scope:
+      path: assets/js/dist
     values:
       swcache: true
 
