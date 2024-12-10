@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Kwoo9의 블로그 # the main title
 
-tagline: Kwoo9의 공부기록 # it will display as the subtitle
+tagline: Kwoo9의 공부기록, Programmer, Photographer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   우여곡절 우당탕탕 프로그래밍 공부기록
