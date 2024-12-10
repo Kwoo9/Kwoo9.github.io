@@ -1,7 +1,7 @@
 ---
 title: "첫 게시물"
 excerpt: "md파일을 이용한 첫 게시물"
-writer: Kwoo9
+author: Kwoo9
 date: 2024-12-10
 categories: [Tutorial, Github, Blog]
 tags: [testing]
