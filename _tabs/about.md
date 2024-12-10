@@ -1,8 +1,30 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: Kwoo9의 블로그입니다.
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## About Me
+
+안녕하세요! 👋 저는 Kwoo9, 사진찍는걸 좋아하고 프로그래밍 직무로 취직을 준비하고 있습니다.
+
+### What I Do
+
+*경험:*
+저의 소프트웨어 프로젝트 경험은 아래와 같습니다.
+- **이기종 DB Migration:** MSSQL에서 PostgreSQL로 이기종 DB Migration 후 자체어플과 연동하는 경험을 했습니다.
+- **TaleTogether:** 사용자 맞춤형 동화책을 생성하는 웹사이트를 개발하였습니다.
+- **매장의 민족:** QR코드 기반의 웹 키오스크 시스템을 개발하고 CI/CD 자동화 구축을 경험했습니다.
+- **Image Style Classification:** 방 이미지 스타일 분류 모델 성능 고도화 프로젝트로 77%에서 83%로 고도화에 성공했습니다.
+
+*좋아하는 것들:*
+- **풍경 사진 촬영:** 국내에서 풍경 사진을 찍는 것을 좋아하며 취미로 가지고있습니다.
+- **맛집 탐방:** 맛집이나 카페를 찾아보고 직접 경험해보는 것을 좋아합니다.
+
+*좌우명:*
+- **부끄럽게 살지 말자**
+
+*Contact*
+저는 직접 경험해보며 배우고 성장하고 싶습니다.
+언제든 저와 대화하고 싶으시다면 rhks1132ek@naver.com을 통해 연락주세요.
+감사합니다!
+
+---
