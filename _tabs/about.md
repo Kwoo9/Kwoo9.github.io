@@ -8,7 +8,7 @@ title: Kwoo9의 블로그입니다.
 
 ### What I Do
 
-*경험:*
+*경험:*  
 저의 소프트웨어 프로젝트 경험은 아래와 같습니다.
 - **이기종 DB Migration:** MSSQL에서 PostgreSQL로 이기종 DB Migration 후 자체어플과 연동하는 경험을 했습니다.
 - **TaleTogether:** 사용자 맞춤형 동화책을 생성하는 웹사이트를 개발하였습니다.
